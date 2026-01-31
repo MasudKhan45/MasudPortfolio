@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Data Sprinter - 3D Interactive Portfolio
 
 **An immersive 3D runner-style portfolio experience showcasing the career journey of Masud Khan.**
@@ -139,3 +140,6 @@ This project is open source and available under the MIT License.
 ---
 
 **Created with ❤️ using React Three Fiber**
+=======
+# Masud_Portfolio
+>>>>>>> 1f8e63fb399a96c8568cb71fada6e13a4ecb83c7
