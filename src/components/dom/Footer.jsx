@@ -79,8 +79,8 @@ const Footer = () => {
                     </a>
 
                     <a
-                        href="/assets/resume.pdf"
-                        download="Masud_Khan_Resume.pdf"
+                        href="/assets/Masud_DataAnalyst.pdf"
+                        download="Masud_DataAnalyst.pdf"
                         style={{
                             padding: '15px 30px',
                             background: 'transparent',
